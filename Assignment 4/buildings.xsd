@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+    <xs:element name="address">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="streetNo" type="xs:integer"/> 
+                <xs:element name="strName" type="xs:string"/>    
+                <xs:element name="city" type="xs:string"/>   
+                <xs:element name="state" type="xs:string"/>   
+                <xs:element name="zip" type="xs:integer"/>   
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+       
+    <xs:element name="position">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="latitude" type="xs:string"/>
+                <xs:element name="longitude" type="xs:string"/>    
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+     <xs:element name="buildingCode">
+    <xs:simpleType>
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\s*[a-z|A-Z]{3}\s*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    </xs:element>
+    <xs:element name="building">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="buildingCode"/>
+                <xs:element name="buildingName" type="xs:string"/>
+                <xs:element ref="position"/>
+                <xs:element ref="address" minOccurs="0" maxOccurs="1"/> 
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="buildings">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="building" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+  
+</xs:schema>

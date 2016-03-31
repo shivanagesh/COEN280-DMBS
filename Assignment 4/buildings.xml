@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<buildings   xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+             xsi:noNamespaceSchemaLocation='buildings.xsd'>
+    <building>
+        <buildingCode>KOH</buildingCode>
+        <buildingName>King Olympic Hall</buildingName>
+        <position>
+            <latitude>34.024547</latitude>
+            <longitude> -118.288 </longitude>
+        </position>
+        <address>
+            <streetNo>1027</streetNo>
+            <strName>W 34th St</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90007</zip>
+        </address>
+    </building>
+    
+     <building>
+        <buildingCode>CFX</buildingCode>
+        <buildingName> Cromwell Field</buildingName>
+        <position>
+            <latitude>34.021631</latitude>
+            <longitude> -118.289 </longitude>
+        </position>
+        <address>
+            <streetNo>1026</streetNo>
+            <strName>W 34th St</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+    
+     <building>
+        <buildingCode>JEP</buildingCode>
+        <buildingName> JEP House</buildingName>
+        <position>
+            <latitude>34.022947</latitude>
+            <longitude>-118.284</longitude>
+        </position>
+        <address>
+            <streetNo> 801 </streetNo>
+            <strName>W 34th St</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+     <building>
+        <buildingCode>SHC</buildingCode>
+        <buildingName> Student Health Center </buildingName>
+        <position>
+            <latitude>34.023303</latitude>
+            <longitude>-118.285 </longitude>
+        </position>
+        <address>
+            <streetNo> 849 </streetNo>
+            <strName>W 34th St</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+     <building>
+        <buildingCode>LVY</buildingCode>
+        <buildingName> Leavey Library </buildingName>
+        <position>
+            <latitude>34.021595</latitude>
+            <longitude>-118.282</longitude>
+        </position>
+        <address>
+            <streetNo> 651 </streetNo>
+            <strName>W 35th St</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+    <building>
+        <buildingCode>VKC</buildingCode>
+        <buildingName> Von KleinSmid Center </buildingName>
+        <position>
+            <latitude>34.021649</latitude>
+            <longitude>-118.284</longitude>
+        </position>
+        <address>
+            <streetNo> 3518 </streetNo>
+            <strName>Trousdale</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    <building>
+        <buildingCode>WPH</buildingCode>
+        <buildingName> Waite Phillips Hall</buildingName>
+        <position>
+            <latitude>34.022289</latitude>
+            <longitude>-118.284</longitude>
+        </position>
+        <address>
+            <streetNo> 3550 </streetNo>
+            <strName>Trousdale</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+     <building>
+        <buildingCode>JHH</buildingCode>
+        <buildingName> John Hubbard Hall </buildingName>
+        <position>
+            <latitude>34.020101</latitude>
+            <longitude>-118.284</longitude>
+        </position>
+        <address>
+            <streetNo> 615 </streetNo>
+            <strName>ChildsWay</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+     <building>
+        <buildingCode>REG</buildingCode>
+        <buildingName> Registration Builing</buildingName>
+        <position>
+            <latitude>34.019603</latitude>
+            <longitude>-118.282</longitude>
+        </position>
+        <address>
+            <streetNo> 611 </streetNo>
+            <strName>ChildsWay</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+    <building>
+        <buildingCode>STU</buildingCode>
+        <buildingName> Student Union </buildingName>
+        <position>
+            <latitude>34.020226</latitude>
+            <longitude>-118.286</longitude>
+        </position>
+        <address>
+            <streetNo> 3551 </streetNo>
+            <strName>Trousdale</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+    <building>
+        <buildingCode>BKS</buildingCode>
+        <buildingName> Bookstore </buildingName>
+        <position>
+            <latitude>34.020635</latitude>
+            <longitude>-118.286</longitude>
+        </position>
+        <address>
+            <streetNo> 840 </streetNo>
+            <strName>ChildsWay</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+    <building>
+        <buildingCode>RTH</buildingCode>
+        <buildingName> Ronald Tutor Hall </buildingName>
+        <position>
+            <latitude>34.020137</latitude>
+            <longitude>-118.29</longitude>
+        </position>
+        <address>
+            <streetNo> 3710 </streetNo>
+            <strName>McClintock</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+    <building>
+        <buildingCode>SAL</buildingCode>
+        <buildingName>Salvatori Com. Center</buildingName>
+        <position>
+            <latitude>34.01955</latitude>
+            <longitude>-118.289</longitude>
+        </position>
+        <address>
+            <streetNo> 941 </streetNo>
+            <strName> W 37th Place</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+    <building>
+        <buildingCode>EEB</buildingCode>
+        <buildingName>Electrical Engr Center</buildingName>
+        <position>
+            <latitude>34.019728</latitude>
+            <longitude>-118.29</longitude>
+        </position>
+        <address>
+            <streetNo> 3715 </streetNo>
+            <strName> McClintock</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+    
+     <building>
+        <buildingCode>OHE</buildingCode>
+        <buildingName>Olin Hall Engineering</buildingName>
+        <position>
+            <latitude>34.020493</latitude>
+            <longitude>-118.29</longitude>
+        </position>
+        <address>
+            <streetNo> 3650 </streetNo>
+            <strName> McClintock</strName>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zip>90089</zip>
+        </address>
+    </building>
+    
+ 
+   
+    
+   
+</buildings>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<students   xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+            xsi:noNamespaceSchemaLocation='student.xsd'>
+    <student>
+        <ssn>111-00-1111</ssn>
+        <name>Rylan</name>
+        <dob>1968-04-01</dob>
+        <gender>M</gender>
+        <type>Both</type>
+        <buildingCode>CFX</buildingCode>
+        <buildingCode>JEP</buildingCode>
+        <phonenumber>213-740-1111</phonenumber>
+        <phonenumber>213-740-1112</phonenumber>
+    </student>
+    
+    <student>
+        <ssn> 111-00-2222 </ssn>
+        <name>Joshua </name>
+        <dob> 1970-04-01</dob>
+        <gender>M</gender>
+        <type>Both</type>
+        <buildingCode>    RTH </buildingCode> 
+        <buildingCode> OHE </buildingCode>
+        <phonenumber>    213-740-2222 </phonenumber>
+    </student>
+    
+    <student>
+        <ssn>    
+            111-00-3333 </ssn> 
+        <name>Allen </name> 
+        <dob>1969-04-01</dob> 
+        <gender>F</gender> 
+        <type>Both</type>
+        <buildingCode> RTH </buildingCode> 
+        <phonenumber>            213-740-3333 </phonenumber>
+    </student>
+    
+    <student>
+        <ssn> 111-00-4444 </ssn> 
+        <name> Aidan </name> 
+        <dob>    1985-04-01</dob> 
+        <gender>M</gender> 
+        <type>Both</type> 
+        <buildingCode> JHH </buildingCode>
+        <buildingCode> REG </buildingCode>
+        <phonenumber> 213-740-4444 </phonenumber>
+        <phonenumber>    213-740-4445 </phonenumber>
+    </student>
+    <student>
+        <ssn> 111-00-5555 </ssn> 
+        <name>  Aiden </name> 
+        <dob>    1982-04-01</dob> 
+        <gender>M</gender> 
+        <type>Both</type> 
+        <buildingCode> LVY </buildingCode>
+        <buildingCode> VKC </buildingCode>
+        <buildingCode> WPH </buildingCode>
+        <buildingCode> KOH </buildingCode>
+        <phonenumber> 213-740-5555</phonenumber>
+    </student>
+    
+    <student>
+        <ssn> 111-00-6666  </ssn> 
+        <name>  Barak </name> 
+        <dob>     1979-04-01</dob> 
+        <gender>F</gender> 
+        <type>Master</type> 
+        <phonenumber> 213-740-6666</phonenumber>
+    </student>
+    <student>
+        <ssn>  111-00-7777 </ssn> 
+        <name>  Basil </name> 
+        <dob>    1978-04-01</dob> 
+        <gender>M</gender> 
+        <type>Master</type> 
+        <buildingCode> LVY </buildingCode>
+        <buildingCode> VKC </buildingCode>
+        <buildingCode> WPH </buildingCode>
+        <phonenumber> 213-740-7777</phonenumber>
+    </student>   
+    <student>
+        <ssn>  111-00-8888 </ssn> 
+        <name>  Cayden </name> 
+        <dob>    1975-04-01</dob> 
+        <gender>F</gender> 
+        <type>Master</type> 
+        <buildingCode> RTH </buildingCode>
+        <buildingCode> SAL </buildingCode>
+        <buildingCode> OHE </buildingCode>
+        <phonenumber> 213-740-8888</phonenumber>
+        <phonenumber> 213-740-8889</phonenumber>
+    </student>   
+    <student>
+        <ssn>  111-00-9999 </ssn> 
+        <name>  Brendon </name> 
+        <dob>    1972-04-01</dob> 
+        <gender>M</gender> 
+        <type>Master</type> 
+        <buildingCode> RTH </buildingCode>
+        <buildingCode> SAL </buildingCode>
+        <phonenumber> 213-740-9999</phonenumber>
+    </student>  
+    <student>
+        <ssn>  111-00-0000 </ssn> 
+        <name>  Nate </name> 
+        <dob>    1973-04-01</dob> 
+        <gender>M</gender> 
+        <type>Master</type> 
+        <phonenumber> 213-740-0000</phonenumber>
+    </student> 
+    <student>
+        <ssn>  111-11-1111 </ssn> 
+        <name>  Hannah </name> 
+        <dob>    1965-04-01</dob> 
+        <gender>F</gender> 
+        <type>Master</type> 
+        <buildingCode> RTH </buildingCode>
+        <buildingCode> SAL </buildingCode>
+        <buildingCode> OHE </buildingCode>
+        <phonenumber> 213-741-1111</phonenumber>
+    </student>  
+    <student>
+        <ssn>  111-11-2222 </ssn> 
+        <name>  Zoe </name> 
+        <dob>    1962-04-01</dob> 
+        <gender>F</gender> 
+        <type>Master</type> 
+        <buildingCode> CFX </buildingCode>
+        <buildingCode> STU </buildingCode>
+        <buildingCode> BKS </buildingCode>
+        <phonenumber> 213-741-2222</phonenumber>
+    </student>  
+    
+    <student>
+        <ssn>  111-11-3333 </ssn> 
+        <name>  Alexis </name> 
+        <dob>    1963-04-01</dob> 
+        <gender>M</gender> 
+        <type>Phd</type> 
+        <phonenumber> 213-741-3333</phonenumber>
+    </student> 
+    <student>
+        <ssn>  111-11-4444 </ssn> 
+        <name>  Madison </name> 
+        <dob>    1975-04-01</dob> 
+        <gender>F</gender> 
+        <type>Phd</type> 
+        <buildingCode> CFX </buildingCode>
+        <buildingCode> KOH </buildingCode>
+        <buildingCode> SAL </buildingCode>
+        <phonenumber> 213-741-2222</phonenumber>
+    </student> 
+    
+    <student>
+        <ssn>  111-11-5555 </ssn> 
+        <name>  Adalgisa </name> 
+        <dob>    1976-04-01</dob> 
+        <gender>M</gender> 
+        <type>Phd</type> 
+        <buildingCode> CFX </buildingCode>
+        <phonenumber> 213-741-5555</phonenumber>
+    </student> 
+ 
+    <student>
+        <ssn>  111-11-6666 </ssn> 
+        <name>  Cora </name> 
+        <dob>    1977-04-01</dob> 
+        <gender>M</gender> 
+        <type>Phd</type> 
+        <buildingCode> CFX </buildingCode>
+        <buildingCode> KOH </buildingCode>
+        <phonenumber> 213-741-6666</phonenumber>
+        <phonenumber> 213-741-6667</phonenumber>
+    </student> 
+    <student>
+        <ssn>  111-11-7777 </ssn> 
+        <name>  Adalia </name> 
+        <dob>    1982-04-01</dob> 
+        <gender>F</gender> 
+        <type>Phd</type> 
+        <phonenumber> 213-741-7777</phonenumber>
+    </student> 
+    
+    <student>
+        <ssn>  111-11-8888 </ssn> 
+        <name>  Ava </name> 
+        <dob>    1983-04-01</dob> 
+        <gender>F</gender> 
+        <type>Phd</type> 
+        <buildingCode> RTH </buildingCode>
+        <buildingCode> OHE </buildingCode>
+        <phonenumber> 213-741-8888</phonenumber>
+        <phonenumber> 213-741-8889</phonenumber>
+    </student> 
+    
+    <student>
+        <ssn>  111-11-9999 </ssn> 
+        <name>  Celia </name> 
+        <dob>    1986-04-01</dob> 
+        <gender>M</gender> 
+        <type>Phd</type> 
+        <buildingCode> RTH </buildingCode>
+        <phonenumber> 213-741-9999</phonenumber>
+    </student> 
+    
+    <student>
+        <ssn>  111-11-0000 </ssn> 
+        <name>  Zaida </name> 
+        <dob>    1983-04-01</dob> 
+        <gender>F</gender> 
+        <type>Phd</type> 
+        <buildingCode> SAL </buildingCode>
+        <buildingCode> EEB </buildingCode>
+        <phonenumber> 213-741-0000</phonenumber>
+    </student> 
+    
+</students>
